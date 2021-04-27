@@ -14,7 +14,7 @@
 	<name>Reservations-Spring-Boot</name>
 	<description>Projet Reservations avec Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -33,7 +33,6 @@
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
